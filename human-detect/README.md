@@ -1,4 +1,4 @@
-# Huam Counting using Yolov3
+# Human Counting using Yolov3
 
 ## Objective : 
 
